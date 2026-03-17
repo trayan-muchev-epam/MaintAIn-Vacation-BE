@@ -13,7 +13,7 @@ Vacation Management Backend — Java + Spring Boot REST API with HTTP Basic Auth
 mvn spring-boot:run
 ```
 
-The server starts on **http://localhost:8080**.
+The server starts on **http://localhost:8181**.
 
 ## Hardcoded Users
 
